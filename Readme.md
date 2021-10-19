@@ -6,6 +6,7 @@
 
 <h2>ferramentas:</h2>
 <li>fetch</li>
+<li>async await</li>
 <li>reduce</li>
 <li>flexbox</li>
 <li>link da API: https://github.com/akabab/starwars-api</li>
