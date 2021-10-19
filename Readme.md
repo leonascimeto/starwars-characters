@@ -1,5 +1,5 @@
 
-<h1>Lista de Perssonagens StarWars</h1>
+<h1>Lista de Personagens StarWars</h1>
 
 <h2>Descrição:</h2>
 <p>Consumo de API externa com uso de javascript puro</p>
