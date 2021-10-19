@@ -8,7 +8,8 @@
 <li>fetch</li>
 <li>reduce</li>
 <li>flexbox</li>
-<li>link da API: [https://github.com/akabab/starwars-api](https://github.com/akabab/starwars-api)</li>
+<li>link da API: https://github.com/akabab/starwars-api</li>
+<br>
 
 
 <img src="./assets/starwars-api.gif" alt="demontração" />
