@@ -9,6 +9,8 @@
 <li>async await</li>
 <li>reduce</li>
 <li>flexbox</li>
+<br>
+<li>Demo: https://leonascimeto.github.io/starwars-characters/</li>
 <li>link da API: https://github.com/akabab/starwars-api</li>
 <br>
 
